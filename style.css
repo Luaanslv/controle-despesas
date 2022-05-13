@@ -149,3 +149,9 @@
   .transactions li:hover .delete-btn {
     opacity: 1;
   }
+
+  @media (max-width: 400px){
+    .transactions{
+      margin-left: 35px;
+    }
+  }
